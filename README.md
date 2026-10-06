@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
+  <h3><code>shahrukh@github ~ $ ./contributions.sh</code></h3>
+  <img src="./contrib-heatmap.svg" width="860" alt="Live contribution calendar for shahrukh-210906, refreshed daily" />
+  <br /><br />
+  <h3><code>shahrukh@github ~ $ whoami</code></h3>
+  <table><tr>
+    <td valign="top"><img src="./portrait.svg" width="300" alt="Animated ASCII portrait of Mohd Shahrukh" /></td>
+    <td valign="top"><img src="./info-card.svg" width="550" alt="Mohd Shahrukh — web developer and tech enthusiast. React, Tailwind CSS and Vite. Exploring AI and data structures; enjoys filmmaking." /></td>
+  </tr></table>
+  <br />
+  <h3><code>shahrukh@github ~ $ ls projects/</code></h3>
+  <p><a href="https://github.com/shahrukh-210906/Neurolog-AI">Neurolog-AI</a> · <a href="https://github.com/shahrukh-210906/WONDERLUST">WONDERLUST</a> · <a href="https://github.com/shahrukh-210906/LiftEat">LiftEat</a> · <a href="https://github.com/shahrukh-210906/DSA">DSA</a> · <a href="https://github.com/shahrukh-210906/Portfolio">Portfolio</a></p>
+  <p><sub>Built with Python + animated SVG. Contribution data refreshes daily through GitHub Actions.</sub></p>
+</div>
 
-<!--
-**shahrukh-210906/shahrukh-210906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details><summary>About this profile</summary>
 
-Here are some ideas to get you started:
+Artwork lives in this repository and plays once on load, with reduced-motion support. Public contribution data comes from GitHub's calendar; no personal access token or external stats service is needed.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Inspired by [Avi Vashishta's animated README guide](https://www.avivashishta.com/blog/build-animated-github-profile-readme). The implementation here is original.
+
+</details>
