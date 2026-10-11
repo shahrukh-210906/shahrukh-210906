@@ -2,41 +2,6 @@
   "username": "shahrukh-210906",
   "days": [
     {
-      "date": "2025-10-05",
-      "level": 4,
-      "count": 10
-    },
-    {
-      "date": "2025-10-06",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-07",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-08",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-09",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-10",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-11",
-      "level": 0,
-      "count": 0
-    },
-    {
       "date": "2025-10-12",
       "level": 0,
       "count": 0
@@ -1853,8 +1818,13 @@
     },
     {
       "date": "2026-10-10",
-      "level": 2,
-      "count": 5
+      "level": 4,
+      "count": 10
+    },
+    {
+      "date": "2026-10-11",
+      "level": 3,
+      "count": 8
     }
   ]
 }
